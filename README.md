@@ -15,10 +15,15 @@
 ## 🧱 Estrutura do Projeto
 
 📁 igreja/
+
 ├── 📂 imagens/ # Imagens utilizadas no site
+
 ├── 📄 index.html # Página principal
+
 ├── 🎨 style.css # Estilos do site
+
 ├── 📜 LICENSE # Licença MIT
+
 └── 📘 README.md # Este arquivo
 
 
