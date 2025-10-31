@@ -2,7 +2,7 @@
 
 > Um site simples e moderno desenvolvido para a minha igreja, com foco em design limpo, responsividade e facilidade de navegação.
 
-🌐 **Acesse o site:** [https://gabrielsilvasandes.github.io/igreja/ target=_blank]
+🌐 <a href="https://gabrielsilvasandes.github.io/igreja/" target="_blank">Acesse o site</a>
 
 ---
 
