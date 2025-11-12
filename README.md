@@ -43,7 +43,7 @@
 📅 Projeto iniciado em **outubro de 2025**  
 💼 Desenvolvedor Web e Designer 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-silva-sandes)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-silva-sandes-9758a6386/)  
 🐙 [GitHub](https://github.com/gabrielsilvasandes)
 
 ---
